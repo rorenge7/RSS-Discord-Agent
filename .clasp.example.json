@@ -1,0 +1,5 @@
+{
+    "scriptId":"XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "rootDir":"src/",
+    "filePushOrder": ["src/index.ts"]
+}
